@@ -1,1 +1,2 @@
 # simple_network_sniffer
+This project demonstrates a basic network sniffer using Python and Scapy that allows real-time packet capture and examination. The sniffer captures important information like source IP address, destination IP address, protocol type, and payload length, giving details about network traffic patterns. Implementation of the project allows a person to realize how networks exchange messages, how protocols interact with each other, and typical security risks
